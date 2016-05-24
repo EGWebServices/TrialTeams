@@ -1,0 +1,9 @@
+# GrowPage
+
+*Given that I am on the “Grow Page”*
+
+When I click on the vcita URL given in the page
+Then a separate tab opens
+
+When I click on “We're All Set”
+Then I am taken to the “Learn Page”

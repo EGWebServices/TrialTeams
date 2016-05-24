@@ -1,0 +1,3 @@
+# OnboardingProcess
+
+*Given that I have completed the purchase and registration for a Trial team*

@@ -1,0 +1,7 @@
+# Learn Page
+
+*Given that I am on the “learn” page*
+
+When I click on “Start Coaches' Path”
+Then I am prompted for an upload of my personal avatar
+And taken into my path

@@ -1,0 +1,11 @@
+# Invite Page
+
+When I enter an email address to the “Email” column
+And select a coach level
+And click “Send Invite”
+Then a modal appears
+
+When I select a start date
+And enter in a custom message (optional)
+And click “Finish Invite”
+Then I am taken to the “Grow” Page

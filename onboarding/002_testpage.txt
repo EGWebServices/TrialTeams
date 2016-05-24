@@ -1,0 +1,5 @@
+# Test Page
+
+When I enter an email address in the Email Column
+And Click “Send Request”
+Then I am taken to the “Invite” page

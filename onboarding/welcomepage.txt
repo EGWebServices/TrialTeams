@@ -1,0 +1,4 @@
+# Welcome Page
+
+When I click “Get Started”
+Then I am taken to the Test page
